@@ -13,3 +13,6 @@ I like to be a good practician even though that word doesn't even exist xdxd
 # More Topics
 Why can't i simply give synchronize to this without having to put my username and pass
 all the time?
+
+# The last one
+This before leaving, let's see if the credentials are already prepared.
