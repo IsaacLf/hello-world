@@ -9,3 +9,7 @@ knowing this thing.
 
 # More Practice Please
 I like to be a good practician even though that word doesn't even exist xdxd
+
+# More Topics
+Why can't i simply give synchronize to this without having to put my username and pass
+all the time?
