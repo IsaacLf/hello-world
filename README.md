@@ -6,3 +6,6 @@ anyway I think it's a good way to learn about GitHub
 # This is goint to be good
 By reading all this stuff, you can imagine how many things I can do by
 knowing this thing.
+
+# More Practice Please
+I like to be a good practician even though that word doesn't even exist xdxd
